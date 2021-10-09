@@ -12,7 +12,11 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1633779252,,"wq"
+|2,0,1633803019,,"wq"
+:q
+|2,0,1633802994,,"q"
+:ㅂ
+|2,0,1633800218,,"ㅂ"
 :q!
 |2,0,1633765832,,"q!"
 :Wq
@@ -23,8 +27,6 @@
 |2,0,1633756578,,"qa!"
 :help
 |2,0,1633756550,,"help"
-:q
-|2,0,1633756527,,"q"
 
 # Search String History (newest to oldest):
 
@@ -35,241 +37,289 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
-"1	LINE	0
+""1	LINE	0
+	1234567890123456789012345678901234567890942
+|3,1,1,1,1,0,1633803006,"1234567890123456789012345678901234567890942"
+"2	LINE	0
 	
-|3,0,1,1,1,0,1633758930,""
+|3,0,2,1,1,0,1633758930,""
+"3	LINE	0
+	
+|3,0,3,1,1,0,1633758930,""
+"4	LINE	0
+	
+|3,0,4,1,1,0,1633758930,""
 "w	CHAR	0
 	fk
 |3,0,32,0,1,0,1633778849,"fk"
 "-	CHAR	0
-	<
-|3,0,36,0,1,0,1633765808,"<"
+	0
+|3,0,36,0,1,0,1633802898,"0"
 
 # File marks:
-'0  2  0  ~/shell00/git/hyang/text.txt
-|4,48,2,0,1633779252,"~/shell00/git/hyang/text.txt"
-'1  1  15  ~/shell00/git/hyang/test.txt
-|4,49,1,15,1633778852,"~/shell00/git/hyang/test.txt"
-'2  1  57  ~/shell00/ex08/clean
-|4,50,1,57,1633776987,"~/shell00/ex08/clean"
-'3  1  0  ~/shell00/ex08/#12314#
-|4,51,1,0,1633776886,"~/shell00/ex08/#12314#"
-'4  2  0  ~/shell00/ex08/#
-|4,52,2,0,1633776875,"~/shell00/ex08/#"
-'5  1  0  ~/shell00/ex08/#.txt
-|4,53,1,0,1633776854,"~/shell00/ex08/#.txt"
-'6  1  0  ~/shell00/ex08/#test#.txt
-|4,54,1,0,1633776828,"~/shell00/ex08/#test#.txt"
-'7  1  0  ~/shell00/ex08/#test.txt
-|4,55,1,0,1633776626,"~/shell00/ex08/#test.txt"
-'8  1  0  ~/shell00/ex08/test~.txt
-|4,56,1,0,1633776607,"~/shell00/ex08/test~.txt"
-'9  1  0  ~/shell00/ex08/out.txt
-|4,57,1,0,1633776106,"~/shell00/ex08/out.txt"
+'0  1  42  ~/shell00/ex09/test.txt
+|4,48,1,42,1633803019,"~/shell00/ex09/test.txt"
+'1  1  18  ~/shell00/ex09/ft_magic
+|4,49,1,18,1633802994,"~/shell00/ex09/ft_magic"
+'2  1  38  ~/shell00/ex09/test.txt
+|4,50,1,38,1633802956,"~/shell00/ex09/test.txt"
+'3  1  40  ~/shell00/ex09/test.txt
+|4,51,1,40,1633802931,"~/shell00/ex09/test.txt"
+'4  1  40  ~/shell00/ex09/test.txt
+|4,52,1,40,1633802931,"~/shell00/ex09/test.txt"
+'5  1  40  ~/shell00/ex09/test.txt
+|4,53,1,40,1633802908,"~/shell00/ex09/test.txt"
+'6  1  40  ~/shell00/ex09/test.txt
+|4,54,1,40,1633802908,"~/shell00/ex09/test.txt"
+'7  1  40  ~/shell00/ex09/test.txt
+|4,55,1,40,1633802908,"~/shell00/ex09/test.txt"
+'8  1  40  ~/shell00/ex09/test.txt
+|4,56,1,40,1633802908,"~/shell00/ex09/test.txt"
+'9  1  0  ~/shell00/ex09/test2
+|4,57,1,0,1633802428,"~/shell00/ex09/test2"
 
 # Jumplist (newest first):
--'  2  0  ~/shell00/git/hyang/text.txt
-|4,39,2,0,1633779252,"~/shell00/git/hyang/text.txt"
--'  1  0  ~/shell00/git/hyang/text.txt
-|4,39,1,0,1633779247,"~/shell00/git/hyang/text.txt"
--'  1  15  ~/shell00/git/hyang/test.txt
-|4,39,1,15,1633778852,"~/shell00/git/hyang/test.txt"
--'  1  15  ~/shell00/git/hyang/test.txt
-|4,39,1,15,1633778852,"~/shell00/git/hyang/test.txt"
--'  1  57  ~/shell00/ex08/clean
-|4,39,1,57,1633776987,"~/shell00/ex08/clean"
--'  1  57  ~/shell00/ex08/clean
-|4,39,1,57,1633776987,"~/shell00/ex08/clean"
--'  1  57  ~/shell00/ex08/clean
-|4,39,1,57,1633776987,"~/shell00/ex08/clean"
--'  1  57  ~/shell00/ex08/clean
-|4,39,1,57,1633776987,"~/shell00/ex08/clean"
--'  1  0  ~/shell00/ex08/#12314#
-|4,39,1,0,1633776886,"~/shell00/ex08/#12314#"
--'  1  0  ~/shell00/ex08/#12314#
-|4,39,1,0,1633776886,"~/shell00/ex08/#12314#"
--'  1  0  ~/shell00/ex08/#12314#
-|4,39,1,0,1633776886,"~/shell00/ex08/#12314#"
--'  1  0  ~/shell00/ex08/#12314#
-|4,39,1,0,1633776886,"~/shell00/ex08/#12314#"
--'  1  0  ~/shell00/ex08/#12314#
-|4,39,1,0,1633776886,"~/shell00/ex08/#12314#"
--'  1  0  ~/shell00/ex08/#12314#
-|4,39,1,0,1633776886,"~/shell00/ex08/#12314#"
--'  1  0  ~/shell00/ex08/#12314#
-|4,39,1,0,1633776886,"~/shell00/ex08/#12314#"
--'  1  0  ~/shell00/ex08/#12314#
-|4,39,1,0,1633776886,"~/shell00/ex08/#12314#"
--'  2  0  ~/shell00/ex08/#
-|4,39,2,0,1633776875,"~/shell00/ex08/#"
--'  2  0  ~/shell00/ex08/#
-|4,39,2,0,1633776875,"~/shell00/ex08/#"
--'  2  0  ~/shell00/ex08/#
-|4,39,2,0,1633776875,"~/shell00/ex08/#"
--'  2  0  ~/shell00/ex08/#
-|4,39,2,0,1633776875,"~/shell00/ex08/#"
--'  2  0  ~/shell00/ex08/#
-|4,39,2,0,1633776875,"~/shell00/ex08/#"
--'  2  0  ~/shell00/ex08/#
-|4,39,2,0,1633776875,"~/shell00/ex08/#"
--'  2  0  ~/shell00/ex08/#
-|4,39,2,0,1633776875,"~/shell00/ex08/#"
--'  2  0  ~/shell00/ex08/#
-|4,39,2,0,1633776875,"~/shell00/ex08/#"
--'  2  0  ~/shell00/ex08/#
-|4,39,2,0,1633776875,"~/shell00/ex08/#"
--'  2  0  ~/shell00/ex08/#
-|4,39,2,0,1633776875,"~/shell00/ex08/#"
--'  2  0  ~/shell00/ex08/#
-|4,39,2,0,1633776875,"~/shell00/ex08/#"
--'  2  0  ~/shell00/ex08/#
-|4,39,2,0,1633776875,"~/shell00/ex08/#"
--'  2  0  ~/shell00/ex08/#
-|4,39,2,0,1633776875,"~/shell00/ex08/#"
--'  2  0  ~/shell00/ex08/#
-|4,39,2,0,1633776875,"~/shell00/ex08/#"
--'  2  0  ~/shell00/ex08/#
-|4,39,2,0,1633776875,"~/shell00/ex08/#"
--'  2  0  ~/shell00/ex08/#
-|4,39,2,0,1633776875,"~/shell00/ex08/#"
--'  1  0  ~/shell00/ex08/#
-|4,39,1,0,1633776870,"~/shell00/ex08/#"
--'  1  0  ~/shell00/ex08/#
-|4,39,1,0,1633776870,"~/shell00/ex08/#"
--'  1  0  ~/shell00/ex08/#
-|4,39,1,0,1633776870,"~/shell00/ex08/#"
--'  1  0  ~/shell00/ex08/#
-|4,39,1,0,1633776870,"~/shell00/ex08/#"
--'  1  0  ~/shell00/ex08/#
-|4,39,1,0,1633776870,"~/shell00/ex08/#"
--'  1  0  ~/shell00/ex08/#
-|4,39,1,0,1633776870,"~/shell00/ex08/#"
--'  1  0  ~/shell00/ex08/#
-|4,39,1,0,1633776870,"~/shell00/ex08/#"
--'  1  0  ~/shell00/ex08/#
-|4,39,1,0,1633776870,"~/shell00/ex08/#"
--'  1  0  ~/shell00/ex08/#
-|4,39,1,0,1633776870,"~/shell00/ex08/#"
--'  1  0  ~/shell00/ex08/#
-|4,39,1,0,1633776870,"~/shell00/ex08/#"
--'  1  0  ~/shell00/ex08/#
-|4,39,1,0,1633776870,"~/shell00/ex08/#"
--'  1  0  ~/shell00/ex08/#
-|4,39,1,0,1633776870,"~/shell00/ex08/#"
--'  1  0  ~/shell00/ex08/#
-|4,39,1,0,1633776870,"~/shell00/ex08/#"
--'  1  0  ~/shell00/ex08/#
-|4,39,1,0,1633776870,"~/shell00/ex08/#"
--'  1  0  ~/shell00/ex08/#
-|4,39,1,0,1633776870,"~/shell00/ex08/#"
--'  1  0  ~/shell00/ex08/#
-|4,39,1,0,1633776870,"~/shell00/ex08/#"
--'  1  0  ~/shell00/ex08/#.txt
-|4,39,1,0,1633776854,"~/shell00/ex08/#.txt"
--'  1  0  ~/shell00/ex08/#.txt
-|4,39,1,0,1633776854,"~/shell00/ex08/#.txt"
--'  1  0  ~/shell00/ex08/#.txt
-|4,39,1,0,1633776854,"~/shell00/ex08/#.txt"
--'  1  0  ~/shell00/ex08/#.txt
-|4,39,1,0,1633776854,"~/shell00/ex08/#.txt"
--'  1  0  ~/shell00/ex08/#.txt
-|4,39,1,0,1633776854,"~/shell00/ex08/#.txt"
--'  1  0  ~/shell00/ex08/#.txt
-|4,39,1,0,1633776854,"~/shell00/ex08/#.txt"
--'  1  0  ~/shell00/ex08/#.txt
-|4,39,1,0,1633776854,"~/shell00/ex08/#.txt"
--'  1  0  ~/shell00/ex08/#.txt
-|4,39,1,0,1633776854,"~/shell00/ex08/#.txt"
--'  1  0  ~/shell00/ex08/#.txt
-|4,39,1,0,1633776854,"~/shell00/ex08/#.txt"
--'  1  0  ~/shell00/ex08/#.txt
-|4,39,1,0,1633776854,"~/shell00/ex08/#.txt"
--'  1  0  ~/shell00/ex08/#.txt
-|4,39,1,0,1633776854,"~/shell00/ex08/#.txt"
--'  1  0  ~/shell00/ex08/#.txt
-|4,39,1,0,1633776854,"~/shell00/ex08/#.txt"
--'  1  0  ~/shell00/ex08/#.txt
-|4,39,1,0,1633776854,"~/shell00/ex08/#.txt"
--'  1  0  ~/shell00/ex08/#.txt
-|4,39,1,0,1633776854,"~/shell00/ex08/#.txt"
--'  1  0  ~/shell00/ex08/#.txt
-|4,39,1,0,1633776854,"~/shell00/ex08/#.txt"
--'  1  0  ~/shell00/ex08/#.txt
-|4,39,1,0,1633776854,"~/shell00/ex08/#.txt"
--'  1  0  ~/shell00/ex08/#.txt
-|4,39,1,0,1633776854,"~/shell00/ex08/#.txt"
--'  1  0  ~/shell00/ex08/#.txt
-|4,39,1,0,1633776854,"~/shell00/ex08/#.txt"
--'  1  0  ~/shell00/ex08/#.txt
-|4,39,1,0,1633776854,"~/shell00/ex08/#.txt"
--'  1  0  ~/shell00/ex08/#.txt
-|4,39,1,0,1633776854,"~/shell00/ex08/#.txt"
--'  1  0  ~/shell00/ex08/#.txt
-|4,39,1,0,1633776854,"~/shell00/ex08/#.txt"
--'  1  0  ~/shell00/ex08/#.txt
-|4,39,1,0,1633776854,"~/shell00/ex08/#.txt"
--'  1  0  ~/shell00/ex08/#.txt
-|4,39,1,0,1633776854,"~/shell00/ex08/#.txt"
--'  1  0  ~/shell00/ex08/#.txt
-|4,39,1,0,1633776854,"~/shell00/ex08/#.txt"
--'  1  0  ~/shell00/ex08/#.txt
-|4,39,1,0,1633776854,"~/shell00/ex08/#.txt"
--'  1  0  ~/shell00/ex08/#.txt
-|4,39,1,0,1633776854,"~/shell00/ex08/#.txt"
--'  1  0  ~/shell00/ex08/#.txt
-|4,39,1,0,1633776854,"~/shell00/ex08/#.txt"
--'  1  0  ~/shell00/ex08/#.txt
-|4,39,1,0,1633776854,"~/shell00/ex08/#.txt"
--'  1  0  ~/shell00/ex08/#.txt
-|4,39,1,0,1633776854,"~/shell00/ex08/#.txt"
--'  1  0  ~/shell00/ex08/#.txt
-|4,39,1,0,1633776854,"~/shell00/ex08/#.txt"
--'  1  0  ~/shell00/ex08/#.txt
-|4,39,1,0,1633776854,"~/shell00/ex08/#.txt"
--'  1  0  ~/shell00/ex08/#.txt
-|4,39,1,0,1633776854,"~/shell00/ex08/#.txt"
--'  1  0  ~/shell00/ex08/#test#.txt
-|4,39,1,0,1633776828,"~/shell00/ex08/#test#.txt"
--'  1  0  ~/shell00/ex08/#test#.txt
-|4,39,1,0,1633776828,"~/shell00/ex08/#test#.txt"
--'  1  0  ~/shell00/ex08/#test#.txt
-|4,39,1,0,1633776828,"~/shell00/ex08/#test#.txt"
--'  1  0  ~/shell00/ex08/#test#.txt
-|4,39,1,0,1633776828,"~/shell00/ex08/#test#.txt"
--'  1  0  ~/shell00/ex08/#test#.txt
-|4,39,1,0,1633776828,"~/shell00/ex08/#test#.txt"
--'  1  0  ~/shell00/ex08/#test#.txt
-|4,39,1,0,1633776828,"~/shell00/ex08/#test#.txt"
--'  1  0  ~/shell00/ex08/#test#.txt
-|4,39,1,0,1633776828,"~/shell00/ex08/#test#.txt"
--'  1  0  ~/shell00/ex08/#test#.txt
-|4,39,1,0,1633776828,"~/shell00/ex08/#test#.txt"
--'  1  0  ~/shell00/ex08/#test#.txt
-|4,39,1,0,1633776828,"~/shell00/ex08/#test#.txt"
--'  1  0  ~/shell00/ex08/#test#.txt
-|4,39,1,0,1633776828,"~/shell00/ex08/#test#.txt"
--'  1  0  ~/shell00/ex08/#test#.txt
-|4,39,1,0,1633776828,"~/shell00/ex08/#test#.txt"
--'  1  0  ~/shell00/ex08/#test#.txt
-|4,39,1,0,1633776828,"~/shell00/ex08/#test#.txt"
--'  1  0  ~/shell00/ex08/#test#.txt
-|4,39,1,0,1633776828,"~/shell00/ex08/#test#.txt"
--'  1  0  ~/shell00/ex08/#test#.txt
-|4,39,1,0,1633776828,"~/shell00/ex08/#test#.txt"
--'  1  0  ~/shell00/ex08/#test#.txt
-|4,39,1,0,1633776828,"~/shell00/ex08/#test#.txt"
--'  1  0  ~/shell00/ex08/#test#.txt
-|4,39,1,0,1633776828,"~/shell00/ex08/#test#.txt"
--'  1  0  ~/shell00/ex08/#test#.txt
-|4,39,1,0,1633776828,"~/shell00/ex08/#test#.txt"
--'  1  0  ~/shell00/ex08/#test#.txt
-|4,39,1,0,1633776828,"~/shell00/ex08/#test#.txt"
--'  1  0  ~/shell00/ex08/#test#.txt
-|4,39,1,0,1633776828,"~/shell00/ex08/#test#.txt"
--'  1  0  ~/shell00/ex08/#test#.txt
-|4,39,1,0,1633776828,"~/shell00/ex08/#test#.txt"
+-'  1  42  ~/shell00/ex09/test.txt
+|4,39,1,42,1633803019,"~/shell00/ex09/test.txt"
+-'  1  18  ~/shell00/ex09/ft_magic
+|4,39,1,18,1633802994,"~/shell00/ex09/ft_magic"
+-'  1  18  ~/shell00/ex09/ft_magic
+|4,39,1,18,1633802994,"~/shell00/ex09/ft_magic"
+-'  1  38  ~/shell00/ex09/test.txt
+|4,39,1,38,1633802956,"~/shell00/ex09/test.txt"
+-'  1  38  ~/shell00/ex09/test.txt
+|4,39,1,38,1633802956,"~/shell00/ex09/test.txt"
+-'  1  40  ~/shell00/ex09/test.txt
+|4,39,1,40,1633802931,"~/shell00/ex09/test.txt"
+-'  1  40  ~/shell00/ex09/test.txt
+|4,39,1,40,1633802931,"~/shell00/ex09/test.txt"
+-'  1  40  ~/shell00/ex09/test.txt
+|4,39,1,40,1633802908,"~/shell00/ex09/test.txt"
+-'  1  40  ~/shell00/ex09/test.txt
+|4,39,1,40,1633802908,"~/shell00/ex09/test.txt"
+-'  2  0  ~/shell00/ex09/test.txt
+|4,39,2,0,1633802874,"~/shell00/ex09/test.txt"
+-'  2  0  ~/shell00/ex09/test.txt
+|4,39,2,0,1633802874,"~/shell00/ex09/test.txt"
+-'  2  0  ~/shell00/ex09/test.txt
+|4,39,2,0,1633802874,"~/shell00/ex09/test.txt"
+-'  2  0  ~/shell00/ex09/test.txt
+|4,39,2,0,1633802874,"~/shell00/ex09/test.txt"
+-'  2  0  ~/shell00/ex09/test.txt
+|4,39,2,0,1633802874,"~/shell00/ex09/test.txt"
+-'  2  0  ~/shell00/ex09/test.txt
+|4,39,2,0,1633802874,"~/shell00/ex09/test.txt"
+-'  1  0  ~/shell00/ex09/test2
+|4,39,1,0,1633802428,"~/shell00/ex09/test2"
+-'  1  0  ~/shell00/ex09/test2
+|4,39,1,0,1633802428,"~/shell00/ex09/test2"
+-'  1  0  ~/shell00/ex09/test2
+|4,39,1,0,1633802428,"~/shell00/ex09/test2"
+-'  1  0  ~/shell00/ex09/test2
+|4,39,1,0,1633802428,"~/shell00/ex09/test2"
+-'  1  0  ~/shell00/ex09/test2
+|4,39,1,0,1633802428,"~/shell00/ex09/test2"
+-'  1  0  ~/shell00/ex09/test2
+|4,39,1,0,1633802428,"~/shell00/ex09/test2"
+-'  1  0  ~/shell00/ex09/test2
+|4,39,1,0,1633802428,"~/shell00/ex09/test2"
+-'  1  0  ~/shell00/ex09/test2
+|4,39,1,0,1633802428,"~/shell00/ex09/test2"
+-'  1  0  ~/shell00/ex09/test2
+|4,39,1,0,1633802428,"~/shell00/ex09/test2"
+-'  1  0  ~/shell00/ex09/test2
+|4,39,1,0,1633802428,"~/shell00/ex09/test2"
+-'  1  0  ~/shell00/ex09/test2
+|4,39,1,0,1633802428,"~/shell00/ex09/test2"
+-'  1  0  ~/shell00/ex09/test2
+|4,39,1,0,1633802428,"~/shell00/ex09/test2"
+-'  1  0  ~/shell00/ex09/test2
+|4,39,1,0,1633802428,"~/shell00/ex09/test2"
+-'  1  0  ~/shell00/ex09/test2
+|4,39,1,0,1633802428,"~/shell00/ex09/test2"
+-'  1  0  ~/shell00/ex09/test2
+|4,39,1,0,1633802428,"~/shell00/ex09/test2"
+-'  1  0  ~/shell00/ex09/test2
+|4,39,1,0,1633802428,"~/shell00/ex09/test2"
+-'  1  0  ~/shell00/ex09/test2
+|4,39,1,0,1633802428,"~/shell00/ex09/test2"
+-'  1  0  ~/shell00/ex09/test2
+|4,39,1,0,1633802428,"~/shell00/ex09/test2"
+-'  1  0  ~/shell00/ex09/test2
+|4,39,1,0,1633802428,"~/shell00/ex09/test2"
+-'  1  0  ~/shell00/ex09/test2
+|4,39,1,0,1633802428,"~/shell00/ex09/test2"
+-'  1  0  ~/shell00/ex09/test2
+|4,39,1,0,1633802428,"~/shell00/ex09/test2"
+-'  1  0  ~/shell00/ex09/test2
+|4,39,1,0,1633802428,"~/shell00/ex09/test2"
+-'  1  0  ~/shell00/ex09/test2
+|4,39,1,0,1633802428,"~/shell00/ex09/test2"
+-'  1  0  ~/shell00/ex09/test2
+|4,39,1,0,1633802428,"~/shell00/ex09/test2"
+-'  1  0  ~/shell00/ex09/test2
+|4,39,1,0,1633802428,"~/shell00/ex09/test2"
+-'  1  0  ~/shell00/ex09/test2
+|4,39,1,0,1633802428,"~/shell00/ex09/test2"
+-'  1  0  ~/shell00/ex09/test2
+|4,39,1,0,1633802428,"~/shell00/ex09/test2"
+-'  1  0  ~/shell00/ex09/test2
+|4,39,1,0,1633802428,"~/shell00/ex09/test2"
+-'  1  0  ~/shell00/ex09/test2
+|4,39,1,0,1633802428,"~/shell00/ex09/test2"
+-'  1  0  ~/shell00/ex09/test2
+|4,39,1,0,1633802428,"~/shell00/ex09/test2"
+-'  1  0  ~/shell00/ex09/test2
+|4,39,1,0,1633802428,"~/shell00/ex09/test2"
+-'  1  0  ~/shell00/ex09/test2
+|4,39,1,0,1633802428,"~/shell00/ex09/test2"
+-'  34  8  ~/shell00/ex09/test.txt
+|4,39,34,8,1633802398,"~/shell00/ex09/test.txt"
+-'  35  8  ~/shell00/ex09/test.txt
+|4,39,35,8,1633802398,"~/shell00/ex09/test.txt"
+-'  35  8  ~/shell00/ex09/test.txt
+|4,39,35,8,1633802398,"~/shell00/ex09/test.txt"
+-'  36  8  ~/shell00/ex09/test.txt
+|4,39,36,8,1633802398,"~/shell00/ex09/test.txt"
+-'  35  8  ~/shell00/ex09/test.txt
+|4,39,35,8,1633802398,"~/shell00/ex09/test.txt"
+-'  36  8  ~/shell00/ex09/test.txt
+|4,39,36,8,1633802398,"~/shell00/ex09/test.txt"
+-'  35  8  ~/shell00/ex09/test.txt
+|4,39,35,8,1633802398,"~/shell00/ex09/test.txt"
+-'  36  8  ~/shell00/ex09/test.txt
+|4,39,36,8,1633802398,"~/shell00/ex09/test.txt"
+-'  36  8  ~/shell00/ex09/test.txt
+|4,39,36,8,1633802398,"~/shell00/ex09/test.txt"
+-'  35  8  ~/shell00/ex09/test.txt
+|4,39,35,8,1633802398,"~/shell00/ex09/test.txt"
+-'  36  8  ~/shell00/ex09/test.txt
+|4,39,36,8,1633802398,"~/shell00/ex09/test.txt"
+-'  35  8  ~/shell00/ex09/test.txt
+|4,39,35,8,1633802398,"~/shell00/ex09/test.txt"
+-'  36  8  ~/shell00/ex09/test.txt
+|4,39,36,8,1633802398,"~/shell00/ex09/test.txt"
+-'  35  8  ~/shell00/ex09/test.txt
+|4,39,35,8,1633802398,"~/shell00/ex09/test.txt"
+-'  36  8  ~/shell00/ex09/test.txt
+|4,39,36,8,1633802398,"~/shell00/ex09/test.txt"
+-'  36  8  ~/shell00/ex09/test.txt
+|4,39,36,8,1633802398,"~/shell00/ex09/test.txt"
+-'  1  41  ~/shell00/ex09/test.txt
+|4,39,1,41,1633802360,"~/shell00/ex09/test.txt"
+-'  1  41  ~/shell00/ex09/test.txt
+|4,39,1,41,1633802360,"~/shell00/ex09/test.txt"
+-'  1  41  ~/shell00/ex09/test.txt
+|4,39,1,41,1633802360,"~/shell00/ex09/test.txt"
+-'  1  41  ~/shell00/ex09/test.txt
+|4,39,1,41,1633802360,"~/shell00/ex09/test.txt"
+-'  4311565  0  ~/shell00/ex09/text.txt
+|4,39,4311565,0,1633802324,"~/shell00/ex09/text.txt"
+-'  4311565  0  ~/shell00/ex09/text.txt
+|4,39,4311565,0,1633802324,"~/shell00/ex09/text.txt"
+-'  4311565  0  ~/shell00/ex09/text.txt
+|4,39,4311565,0,1633802324,"~/shell00/ex09/text.txt"
+-'  4311565  0  ~/shell00/ex09/text.txt
+|4,39,4311565,0,1633802324,"~/shell00/ex09/text.txt"
+-'  4311565  0  ~/shell00/ex09/text.txt
+|4,39,4311565,0,1633802324,"~/shell00/ex09/text.txt"
+-'  4311565  0  ~/shell00/ex09/text.txt
+|4,39,4311565,0,1633802324,"~/shell00/ex09/text.txt"
+-'  4311565  0  ~/shell00/ex09/text.txt
+|4,39,4311565,0,1633802324,"~/shell00/ex09/text.txt"
+-'  4311565  0  ~/shell00/ex09/text.txt
+|4,39,4311565,0,1633802324,"~/shell00/ex09/text.txt"
+-'  4311565  0  ~/shell00/ex09/text.txt
+|4,39,4311565,0,1633802324,"~/shell00/ex09/text.txt"
+-'  4311565  0  ~/shell00/ex09/text.txt
+|4,39,4311565,0,1633802324,"~/shell00/ex09/text.txt"
+-'  4311565  0  ~/shell00/ex09/text.txt
+|4,39,4311565,0,1633802324,"~/shell00/ex09/text.txt"
+-'  4311565  0  ~/shell00/ex09/text.txt
+|4,39,4311565,0,1633802324,"~/shell00/ex09/text.txt"
+-'  4311565  0  ~/shell00/ex09/text.txt
+|4,39,4311565,0,1633802324,"~/shell00/ex09/text.txt"
+-'  4311565  0  ~/shell00/ex09/text.txt
+|4,39,4311565,0,1633802324,"~/shell00/ex09/text.txt"
+-'  4311565  0  ~/shell00/ex09/text.txt
+|4,39,4311565,0,1633802324,"~/shell00/ex09/text.txt"
+-'  4311565  0  ~/shell00/ex09/text.txt
+|4,39,4311565,0,1633802324,"~/shell00/ex09/text.txt"
+-'  4311565  0  ~/shell00/ex09/text.txt
+|4,39,4311565,0,1633802324,"~/shell00/ex09/text.txt"
+-'  4311565  0  ~/shell00/ex09/text.txt
+|4,39,4311565,0,1633802324,"~/shell00/ex09/text.txt"
+-'  4311565  0  ~/shell00/ex09/text.txt
+|4,39,4311565,0,1633802324,"~/shell00/ex09/text.txt"
+-'  4311565  0  ~/shell00/ex09/text.txt
+|4,39,4311565,0,1633802324,"~/shell00/ex09/text.txt"
+-'  4311565  0  ~/shell00/ex09/text.txt
+|4,39,4311565,0,1633802324,"~/shell00/ex09/text.txt"
+-'  4311565  0  ~/shell00/ex09/text.txt
+|4,39,4311565,0,1633802324,"~/shell00/ex09/text.txt"
+-'  4311565  0  ~/shell00/ex09/text.txt
+|4,39,4311565,0,1633802324,"~/shell00/ex09/text.txt"
+-'  4311565  0  ~/shell00/ex09/text.txt
+|4,39,4311565,0,1633802324,"~/shell00/ex09/text.txt"
+-'  4311565  0  ~/shell00/ex09/text.txt
+|4,39,4311565,0,1633802324,"~/shell00/ex09/text.txt"
+-'  4311565  0  ~/shell00/ex09/text.txt
+|4,39,4311565,0,1633802324,"~/shell00/ex09/text.txt"
+-'  4311565  0  ~/shell00/ex09/text.txt
+|4,39,4311565,0,1633802324,"~/shell00/ex09/text.txt"
+-'  4311565  0  ~/shell00/ex09/text.txt
+|4,39,4311565,0,1633802324,"~/shell00/ex09/text.txt"
+-'  4311565  0  ~/shell00/ex09/text.txt
+|4,39,4311565,0,1633802324,"~/shell00/ex09/text.txt"
+-'  4311565  0  ~/shell00/ex09/text.txt
+|4,39,4311565,0,1633802324,"~/shell00/ex09/text.txt"
+-'  4311565  0  ~/shell00/ex09/text.txt
+|4,39,4311565,0,1633802324,"~/shell00/ex09/text.txt"
+-'  4311565  0  ~/shell00/ex09/text.txt
+|4,39,4311565,0,1633802324,"~/shell00/ex09/text.txt"
+-'  4311565  0  ~/shell00/ex09/text.txt
+|4,39,4311565,0,1633802324,"~/shell00/ex09/text.txt"
 
 # History of marks within files (newest to oldest):
+
+> ~/shell00/ex09/test.txt
+	*	1633803018	0
+	"	1	42
+	^	1	43
+	.	1	42
+	+	1	9
+	+	35	0
+	+	1	0
+	+	1	42
+
+> ~/shell00/ex09/ft_magic
+	*	1633802992	0
+	"	1	18
+
+> ~/shell00/ex09/test2
+	*	1633802426	0
+	"	1	0
+
+> ~/shell00/ex09/text.txt
+	*	1633802324	0
+	"	4311565	0
+	^	4311565	0
+	.	4311564	10
+	+	4311564	10
+
+> ~/shell00/ex09/test2.txt
+	*	1633801242	0
+	"	1	2
+	^	1	3
+	.	1	2
+	+	1	1098
+	+	1	9
+	+	1	12339
+	+	1	11106
+	+	1	1
+	+	1	2
+	+	1	1
+	+	1	2
 
 > ~/shell00/git/hyang/text.txt
 	*	1633779251	0
